@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoTamirTakip", "OtoTamirTakip\OtoTamirTakip.csproj", "{B6001FC1-767D-4CBD-99D4-6EA9EFAE2874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoTamirTakipSetupManager", "OtoTamirTakipSetupManager\OtoTamirTakipSetupManager.csproj", "{25623CD1-A514-456B-840C-D615D2F28465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6001FC1-767D-4CBD-99D4-6EA9EFAE2874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6001FC1-767D-4CBD-99D4-6EA9EFAE2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6001FC1-767D-4CBD-99D4-6EA9EFAE2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6001FC1-767D-4CBD-99D4-6EA9EFAE2874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25623CD1-A514-456B-840C-D615D2F28465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25623CD1-A514-456B-840C-D615D2F28465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25623CD1-A514-456B-840C-D615D2F28465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25623CD1-A514-456B-840C-D615D2F28465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA07FF61-B892-4A49-A47E-5227E49F378D}
+	EndGlobalSection
+EndGlobal
